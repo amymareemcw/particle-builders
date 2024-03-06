@@ -37,7 +37,7 @@ Meet the Team behind Particle Builder:
   Transfer student from Indonesia with a strong affinity for data, statistics and caffeine. Familiar with Python, Java, and a few others, but extremely enthused to get started with game development!
 - **Jiacheng She (Tom) - u7020668**: <br />
   <img src="tom-photo.jpg" alt="Tom" width="100">
-  [Brief introduction about the team member.]
+  I’m keen on game development and good at bug testings. I’d like to have more game development experience which would help my future career.
 - **Zilun Wei (Waylon) - u7220282**: <br />
   <img src="waylon-photo.jpg" alt="Waylon" width="100">
   Spokesperson. Loves developing games. VR/AR enthusiast. Very familiar with Unity and C#. Likes to learn and practice project management as well.
