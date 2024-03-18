@@ -4,7 +4,7 @@
 Welcome to Particle Builder! Our mission is to transform the beloved board game "Particle Builder" into an immersive online experience.
 
 ### Version
-Version 1.1. Last updated on 02/03/2024
+Version 1.2. Last updated on 17/03/2024
 
 ### Developers 
 TechLauncher, Australian National University, Australia
@@ -55,17 +55,18 @@ Make sure to check out these essential links:
 
 ## 📈 Overall Current Progress
 Here's a glimpse of our current progress:
-- [x] Conducted language research
-- [x] Conducted initial logistic research
-- [ ] Working on ethics form
-- [ ] Working on documentation set up
+- [x] Basic wireframe created
+- [x] Game logic created
+- [x] Game template found
+- [ ] Working on ethics form, to be completed by 22/03/2024
+- [ ] Working on upskilling activities, to be completed by 22/03/2024
 
 ## 🏆 Milestones 
 Our main milestones are: 
-- [ ] MVP of game (level one against simple computer available online)
-- [ ] Study completed
-- [ ] Publication done
-- [ ] Game optimization
+- [ ] Upskilling Tasks, to be completed by 17/03/2024
+- [ ] Game Design and Prototyping, to be completed by 27/03/2024
+- [ ] Game MVP, to be completed by 19/05/2024
+- [ ] Quality Assurance, to be completed by 26/05/2024
 
 ## 🙏 Acknowledgements
 We extend our gratitude to everyone who is helping us as we work towards the completion of this project. In particular, we would like to thank our client (Lachlan McGinness), our teaching team (Rebecca Gordon, Liang Zheng, and Charles Gretton), and our shadow team (Dragonfly Thinking).
