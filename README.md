@@ -52,6 +52,7 @@ Make sure to check out these essential links:
 - [📝 Management and Logs](https://drive.google.com/drive/folders/1xDHlIG2zxgXX8JDGjmVamH--LjQP0a0U)
 - [💼 Statement of Work](https://docs.google.com/document/d/1qSa2f-sy6qGiY9qCsEOh26du-j6DDjofjy3XefuoVzk/edit?usp=sharing)
 - [🎲 Particle Builder Board Game](https://zenodo.org/records/3594204)
+- [🏃‍♂️ Jira Sprint Management](https://team-lqxqbwlju15o.atlassian.net/jira/software/projects/PBO/boards/2)
 
 ## 📈 Overall Current Progress
 Here's a glimpse of our current progress:
