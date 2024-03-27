@@ -56,15 +56,15 @@ Make sure to check out these essential links:
 
 ## 📈 Overall Current Progress
 Here's a glimpse of our current progress:
-- [x] Basic wireframe created
+- [x] Wireframe created
 - [x] Game logic created
 - [x] Game template found
-- [ ] Working on ethics form, to be completed by 22/03/2024
-- [ ] Working on upskilling activities, to be completed by 22/03/2024
+- [x] Ethics form submitted
+- [ ] Working on upskilling activities, to be completed by 08/04/2024
 
 ## 🏆 Milestones 
 Our main milestones are: 
-- [ ] Upskilling Tasks, to be completed by 17/03/2024
+- [ ] Upskilling Tasks, to be completed by 08/04/2024
 - [ ] Game Design and Prototyping, to be completed by 27/03/2024
 - [ ] Game MVP, to be completed by 19/05/2024
 - [ ] Quality Assurance, to be completed by 26/05/2024
